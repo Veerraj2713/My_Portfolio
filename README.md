@@ -54,7 +54,7 @@ Welcome to my digital space! This is a **modern, responsive portfolio website** 
 
 ## 🚀 Live Demo
 
-**🌐 [View Live Portfolio](https://your-portfolio-url.com)** *(Update this with your actual deployment URL)*
+**🌐 [View Live Portfolio](https://veer2627portfolio.netlify.app/)** 
 
 ## 📁 Project Structure
 
